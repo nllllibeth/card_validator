@@ -1,7 +1,7 @@
 # Credit Card Validator
 
 ## Description
-Credit Card Validator is a Go web application developed to validate credit card numbers. The application utilizes the Luhn algorithm to verify the correctness of credit card numbers. It is built using the Go programming language and the Gin framework.
+Credit Card Validator is a Go web application developed to validate credit card numbers. The application utilizes the Luhn's algorithm to verify the correctness of credit card numbers. It is built using the Go programming language and the Gin framework.
 
 ## Installation Guide
 To install and run the Credit Card Validator application locally, follow these steps:
